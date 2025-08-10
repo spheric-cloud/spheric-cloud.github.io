@@ -1,0 +1,25 @@
+domain = "spheric.cloud"
+
+[index]
+description = "spheric.cloud Golang packages"
+extra_head = ""
+title = "spheric.cloud"
+
+[repos]
+
+[repos."/spheric"]
+repo = "https://github.com/spheric-cloud/spheric"
+vcs = "git"
+
+[repos."/dropin-gen"]
+repo = "https://github.com/spheric-cloud/dropin-gen"
+vcs = "git"
+
+[repos."/xiter"]
+repo = "https://github.com/spheric-cloud/xiter"
+vcs = "git"
+
+[repos."/xstd"]
+repo = "https://github.com/spheric-cloud/xstd"
+vcs = "git"
+
